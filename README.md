@@ -166,6 +166,12 @@ See [grpo/scripts/run.sh](grpo/scripts/run.sh) for all configurable env vars (`L
 - Reward model training based on [Skywork-Reward](https://github.com/SkyworkAI/Skywork-Reward)
 - GRPO training backend: [verl](https://github.com/volcengine/verl)
 
+## License
+
+This project is licensed under [CC BY-NC 4.0](LICENSE) — free for research and non-commercial use. For commercial use, please contact kingyeung.tsang@gmail.com.
+
+Third-party components (verl, Skywork-Reward, MAS-Orchestra) retain their original Apache 2.0 licenses.
+
 ## Contact
 
 For questions or feedback, feel free to open a [GitHub Issue](https://github.com/Wang-ML-Lab/OrchRM/issues) or reach out directly:

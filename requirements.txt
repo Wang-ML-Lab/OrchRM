@@ -1,0 +1,45 @@
+# Core ML
+torch>=2.1.0
+transformers>=4.40.0
+datasets>=2.0.0
+accelerate>=0.30.0
+peft>=0.10.0
+trl>=0.8.0
+
+# verl (installed from ./verl)
+# ray==2.49.2
+ray>=2.40.0
+protobuf==4.25.8
+
+# RM training
+wandb
+numpy
+tqdm
+omegaconf
+hydra-core
+
+# MAS agent tools
+together
+langchain-core
+langchain-together
+langchain-community
+duckduckgo-search
+tavily-python
+pydantic
+ddgs
+bs4
+pyserini
+faiss-gpu
+
+# Math reward
+math-verify[antlr4_13_2]
+antlr4-python3-runtime==4.9.3
+
+# Retrieval
+# git+https://github.com/texttron/tevatron.git
+
+# GRPO / inference
+vllm>=0.4.0
+openai>=1.0.0
+requests
+codetiming
