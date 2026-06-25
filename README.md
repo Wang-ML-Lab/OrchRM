@@ -2,25 +2,6 @@
 
 **OrchRM** is a reward model for multi-agent orchestration systems, trained on preference data across three domains: math reasoning (DeepScaler), multi-hop QA (HotpotQA), and web-based research (BrowseComp+). It is integrated into a GRPO training pipeline to improve a multi-agent system's ability to plan and execute complex tasks.
 
-It is presented in our paper:
-
-> **[Title]** [Authors]
-> *[Venue, Year]*
-> [[arXiv]]() | [[Paper]]()
-
-## Citation
-
-```bibtex
-@article{placeholder,
-  title     = {},
-  author    = {},
-  journal   = {},
-  year      = {}
-}
-```
-
-## Updates
-
 ## Repository Structure
 
 ```
@@ -172,8 +153,26 @@ This project is licensed under [CC BY-NC 4.0](LICENSE) — free for research and
 
 Third-party components (verl, Skywork-Reward, MAS-Orchestra) retain their original Apache 2.0 licenses.
 
+
+
 ## Contact
 
 For questions or feedback, feel free to open a [GitHub Issue](https://github.com/Wang-ML-Lab/OrchRM/issues) or reach out directly:
 
 - **King Yeung Tsang** — kingyeung.tsang@gmail.com
+
+## Citation
+
+```bibtex
+@article{tsang2026orchrm,
+  title   = {Reward Modeling for Multi-Agent Orchestration},
+  author  = {Tsang, King Yeung and Zhao, Zihao and Venkataramani, Vishal and Shi, Haizhou and Ke, Zixuan and Yavuz, Semih and Joty, Shafiq and Wang, Hao},
+  journal = {arXiv preprint arXiv:2606.13598},
+  year    = {2026},
+  archivePrefix = {arXiv},
+  eprint  = {2606.13598},
+  primaryClass = {cs.AI},
+  doi      = {10.48550/arXiv.2606.13598},
+  url      = {https://arxiv.org/abs/2606.13598}
+}
+```
