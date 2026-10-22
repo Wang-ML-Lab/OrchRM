@@ -1,4 +1,15 @@
-# OrchRM
+# OrchRM: Reward Modeling for Multi-Agent Orchestration
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.13598-b31b1b.svg)](https://arxiv.org/abs/2606.13598)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
+
+This is the official implementation of the NeurIPS 2026 paper:
+
+> **Reward Modeling for Multi-Agent Orchestration**
+>
+> King Yeung Tsang, Zihao Zhao, Vishal Venkataramani, Haizhou Shi, Zixuan Ke, Semih Yavuz, Shafiq Joty, Hao Wang
+
+## Overview
 
 **OrchRM** is a reward model for multi-agent orchestration systems, trained on preference data across three domains: math reasoning (DeepScaler), multi-hop QA (HotpotQA), and web-based research (BrowseComp+). It is integrated into a GRPO training pipeline to improve a multi-agent system's ability to plan and execute complex tasks.
 
