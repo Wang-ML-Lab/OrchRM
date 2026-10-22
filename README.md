@@ -164,10 +164,10 @@ For questions or feedback, feel free to open a [GitHub Issue](https://github.com
 ## Citation
 
 ```bibtex
-@article{tsang2026orchrm,
+@inproceedings{tsang2026orchrm,
   title   = {Reward Modeling for Multi-Agent Orchestration},
   author  = {Tsang, King Yeung and Zhao, Zihao and Venkataramani, Vishal and Shi, Haizhou and Ke, Zixuan and Yavuz, Semih and Joty, Shafiq and Wang, Hao},
-  journal = {arXiv preprint arXiv:2606.13598},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year    = {2026},
   archivePrefix = {arXiv},
   eprint  = {2606.13598},
