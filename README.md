@@ -7,7 +7,7 @@ This is the official implementation of the NeurIPS 2026 paper:
 
 > **Reward Modeling for Multi-Agent Orchestration**
 >
-> King Yeung Tsang, Zihao Zhao, Vishal Venkataramani, Haizhou Shi, Zixuan Ke, Semih Yavuz, Shafiq Joty, Hao Wang
+> King Yeung Tsang\*, Zihao Zhao\*, Vishal Venkataramani, Haizhou Shi, Zixuan Ke, Semih Yavuz, Shafiq Joty, Hao Wang
 
 ## Overview
 
